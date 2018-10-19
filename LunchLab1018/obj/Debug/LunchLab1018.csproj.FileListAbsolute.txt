@@ -1,0 +1,10 @@
+C:\CC6\aspnet\other\Labs\LunchLab1018\bin\Debug\LunchLab1018.exe.config
+C:\CC6\aspnet\other\Labs\LunchLab1018\bin\Debug\LunchLab1018.exe
+C:\CC6\aspnet\other\Labs\LunchLab1018\bin\Debug\LunchLab1018.pdb
+C:\CC6\aspnet\other\Labs\LunchLab1018\obj\Debug\LunchLab1018.csprojAssemblyReference.cache
+C:\CC6\aspnet\other\Labs\LunchLab1018\obj\Debug\LunchLab1018.Form1.resources
+C:\CC6\aspnet\other\Labs\LunchLab1018\obj\Debug\LunchLab1018.Properties.Resources.resources
+C:\CC6\aspnet\other\Labs\LunchLab1018\obj\Debug\LunchLab1018.csproj.GenerateResource.cache
+C:\CC6\aspnet\other\Labs\LunchLab1018\obj\Debug\LunchLab1018.csproj.CoreCompileInputs.cache
+C:\CC6\aspnet\other\Labs\LunchLab1018\obj\Debug\LunchLab1018.exe
+C:\CC6\aspnet\other\Labs\LunchLab1018\obj\Debug\LunchLab1018.pdb
